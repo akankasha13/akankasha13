@@ -1,14 +1,25 @@
 ![Banner GIF](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
 
 <h1 align="center">Hi 👋, I'm Akankasha Sharma</h1>
-<h3 align="center">Learning how to code better!</h3>
+<p align="left">Hi, I’m Akankasha, an aspiring web developer with a passion for learning and building cool things. I’m always looking for opportunities to grow and take on new challenges.
+<br>
+<br>
+  Open to work and collaboration, let’s create something great together!
+</p>
 <img align="right" alt="coding" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBweXdzM2t1OHgxZDYzNnBxcXJzb2RtenM2b3F2M2dtdG15ZDRhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qc0BxWM9TxljvJug2x/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankasha13&label=Profile%20views&color=0e75b6&style=flat" alt="akankasha13" /> </p>
 
+- I'm based in:  **New Delhi**
+
+- 🌱 I’m currently learning from:  **www.theodinproject.com**
+
+- 📫 How to reach me:   **akankasha5sharma@gmail.com**
+
+- ⚡ Fun fact:   **My friends pushed me into coding **
 
 
-- 📫 How to reach me **akankasha5sharma@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
