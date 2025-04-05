@@ -1,4 +1,4 @@
-![Banner GIF](https://cdn.pixabay.com/photo/2020/05/21/11/08/banner-5200274_960_720.jpg)
+![Banner GIF](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
 
 <h1 align="center">Hi 👋, I'm Akankasha Sharma</h1>
 <h3 align="center">Learning how to code better!</h3>
