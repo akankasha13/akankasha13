@@ -1,4 +1,4 @@
-![Banner GIF](https://images.squarespace-cdn.com/content/v1/5d642e777bbe5f0001551515/1692813954365-L9P7V1NVCAIK2WY1G07B/sss_banner.png )
+![Banner GIF](https://cdn.pixabay.com/photo/2020/05/21/11/08/banner-5200274_960_720.jpg)
 
 <h1 align="center">Hi 👋, I'm Akankasha Sharma</h1>
 <h3 align="center">Learning how to code better!</h3>
