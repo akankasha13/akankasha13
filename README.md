@@ -16,7 +16,7 @@
 
 - 📫 How to reach me:   **akankasha5sharma@gmail.com**
 
-- ⚡ Fun fact:   **My friends pushed me into coding **
+- ⚡ Fun fact:   **My friends pushed me into coding**
 
 
 
